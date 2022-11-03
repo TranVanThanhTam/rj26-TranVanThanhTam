@@ -1,0 +1,37 @@
+.div1 {
+    text-align: center;
+}
+.div1 img{
+    width: 250px;
+    padding-bottom: 10px;
+}
+
+.div2 p{
+    text-align: left;
+    padding-left: 40%;
+}
+
+.div2 h6{
+    text-align: left;
+    padding-left: 40%;
+    font-weight: 500;
+    color: gray;
+}
+
+.div3 {
+    border-top: 1px solid gray;
+    margin: auto;
+    width: 20%;
+    text-align: left;
+    padding-top: 10px;
+    /* line-height: 20px; */
+}
+
+.div3 .name{
+    color: blue;
+    font-weight: 400;
+}
+
+.div3 .money{
+    font-weight: 500;
+}

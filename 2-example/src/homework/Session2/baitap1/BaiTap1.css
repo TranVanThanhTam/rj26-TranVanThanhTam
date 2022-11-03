@@ -1,0 +1,21 @@
+.container{
+    margin-top: 10px;
+    padding-top: 50px;
+    width: 60%;
+    height: auto;
+    background-color: white;
+    display: flex;
+    border: 1px solid black;
+}
+.form{
+    margin-bottom: 10px;
+    padding-top: 0 auto;
+}
+.main{
+    margin: 0 auto;
+    padding: 2px;
+
+}
+p{
+    color: gray;
+}
